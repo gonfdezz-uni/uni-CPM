@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='ISO-8859-1'  ?>
+<!DOCTYPE index
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Index Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/index_1_0.dtd">
+
+<index version="1.0">
+
+  <indexitem text="añadir musica" target="add" />
+  <indexitem text="descripcion de EII music player" target="intro" />
+  <indexitem text="eliminar musica" target="delete" />
+  <indexitem text="mover volumen" target="vol" />
+  <indexitem text="musica">
+  	<indexitem text="añadir" target="add" />
+  	<indexitem text="eliminar" target="delete" />
+  	<indexitem text="escuchar" target="play" />
+  	<indexitem text="volumen" target="vol" />
+  </indexitem>
+  <indexitem text="reproducir una cancion" target="play" />
+</index>
